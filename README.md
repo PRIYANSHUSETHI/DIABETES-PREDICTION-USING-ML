@@ -82,7 +82,3 @@ The person is DIABETIC (Confidence: 0.87)
 ## 📌 Conclusion
 
 Random Forest outperformed other classifiers in accuracy and robustness, making it the preferred model for deployment. This predictive system can help in early detection of diabetes using accessible health parameters.
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
